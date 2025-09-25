@@ -7,6 +7,8 @@ Hello World
 This is going to be a choice-based adventure game focused on interactive storytelling with multiple paths and endings.
 Exploration mechanics will be included to add immersion, but the story is the core experience.
 
+[Read my logbook!](docs/devlog.md)
+
 ## Features (Planned)
 
     Choice-driven story with multiple paths and endings
