@@ -2,7 +2,7 @@
 
 Welcome to my logbook. This is mostly a place for venting and reflecting on the problems I’ve run into: how I solved them, and maybe a bit of random rambling here and there.
 
-It’s mainly for myself, but feel free to take a peek into my frustrations.
+It’s mainly for myself, but feel free to take a peek into my frustrations!
 
 ## Thought process (25/09)
 
